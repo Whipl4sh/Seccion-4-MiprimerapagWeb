@@ -86,6 +86,7 @@ p {font-family: Georgia, ; font-size: 18px;
     }
 
 .img1 {
+        height: 250px;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
@@ -110,4 +111,7 @@ p {font-family: Georgia, ; font-size: 18px;
     align-items: center;   
 }
 .main {text-align: center;}
-
+.greeting {
+    margin: 50px 0px 0px 0px;
+    text-align: center;
+    }
